@@ -7,7 +7,7 @@ Fork this repository to your own account.
 
 Clone the Forked repository:
 
-git clone https://github.com/BaburshahSayer/Travel-Journal-using-React..git
+git clone **https://github.com/BaburshahSayer/Travel-Journal-using-React..git**
 After cloning, now run cd aop-application-boards-system and get into your newly cloned local repository/folder.
 
 Download and install Node.js from Nodejs. The suggested version to install is 14.16.x LTS.
